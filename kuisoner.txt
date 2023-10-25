@@ -1,0 +1,46 @@
+# Kriteria Penilaian Functionality (Kefungsian)
+Apakah sistem yang dibuat sudah sesuai keinginan pengguna?
+Apakah pengelolaan transaksi jual dan beli pada sistem sudah berkerja dengan baik?
+Apakah hubungan sistem yang dibuat dengan sistem lain sudah berkerja dengan baik?
+Apakah sistem keamanan yang dibuat sudah berkerja dengan baik?
+Apakah sistem yang dibuat sudah berkerja dengan baik?
+
+# Kriteria Penilaian Usability (Kegunaan)
+Apakah sistem yang dibuat mudah dipahami oleh pengguna?
+Apakah sistem yang dibuat dapat memudahkan pengguna baru untuk berinteraksi dengan sistem?
+Apakah sistem yang buat sudah beroperasi  dengan baik?
+Apakah sistem yang dibuat dapat melakukan transaksi dengan baik?
+Apakah sistem yang dibuat mempermudah proses transaksi?
+
+
+# Kriteria Penilaian Efficiency (Efesiensi)
+Apakah Sistem yang dibuat dapat membantu mendata barang keluar-masuk di Gudang?
+Apakah Sistem yang dibuat dapat mendata ketersediaan stok barang?
+Apakah Sistem yang dibuat dapat mempermudah membuat dokumen transaksi pergudangan?
+Apakah sistem yang dibuat dapat mempermudah pengaksesan data stok barang di gudang?
+Apakah sistem yang dibuat mempercepat proses pendataan barang di gudang?
+
+---
+perubahan pengujian iso 9126
+
+Understandbility
+Q1. Alur penggunaan Sistem Informasi Inventory berbasis web mudah dimengerti.
+Q2. Penempatan Fitur dan menu Sistem Informasi Inventory mudah dimengerti.
+Q3. Informasi pada data log book aktivitas mudah dimengerti.
+
+Learnability
+Q4. Penggunaan Sistem Informasi Inventory dapat dipelajari dengan mudah.
+Q5. Penggunaan fitur yang ada pada Log Book Aktivitas mudah dipelajari.
+
+Operability
+Q6. Fitur – fitur yang ada pada Sistem Informasi Inventory mudah dioperasikan.
+
+Attractiveness
+Q7. Tertarik dalam menggunakan Sistem Informasi Inventory.
+Q8. Alur penggunaan sistem yang mudah dipahami sehingga tertarik dalam penggunaan sistem tersebut
+Q9. Pada fitur fitur yang ada di Sistem Informasi Inventory dapat dipahami sehingga tertarik dalam penggunaan sistem tersebut
+
+Usability Compliance
+Q10. Tampilan Sistem Informasi Inventory sudah sesuai
+Q11. Fitur – fitur yang ada pada Sistem Informasi Inventory sudah sesuai dengan keinginan user.
+Q12. Informasi data Sistem Informasi Inventory sudah sesuai dengan keinginan user
