@@ -1,0 +1,63 @@
+1. Apakah Anda telah menggunakan sistem informasi inventori gudang yang baru dalam aktivitas sehari-hari di gudang?
+
+A. Ya, secara rutin
+B. Ya, namun belum secara rutin
+C. Belum menggunakan
+
+2. Bagaimana pengalaman Anda dalam menggunakan sistem informasi inventori gudang yang baru? Adakah perbedaan yang signifikan dari pengalaman sebelumnya?
+
+A. Pengalaman yang jauh lebih baik
+B. Pengalaman yang sedikit lebih baik
+C. Belum menggunakan
+
+3. Seberapa efektif sistem informasi inventori gudang yang baru dalam membantu Anda dalam manajemen persediaan di gudang?
+
+A. Sangat efektif
+B. Efektif
+C. Tidak efektif
+
+4. Bagaimana sistem ini membantu dalam meningkatkan efisiensi operasional di gudang Anda?
+
+A. Dengan mempermudah pemantauan stok barang
+B. Dengan mengoptimalkan pengelolaan persediaan
+C. Dengan memungkinkan prediksi kebutuhan stok yang lebih akurat
+
+5. Apakah adanya sistem informasi inventori gudang telah memberikan keuntungan yang signifikan dalam manajemen persediaan jika dibandingkan dengan metode sebelumnya?
+
+A. Ya, memberikan keuntungan yang besar
+B. Ya, memberikan keuntungan namun tidak signifikan
+C. Tidak memberikan keuntungan yang signifikan
+
+6. Menurut Anda, sejauh mana sistem informasi inventori gudang yang baru telah memenuhi kebutuhan operasional gudang?
+
+A. Memenuhi semua kebutuhan
+B. Memenuhi sebagian besar kebutuhan
+C. Tidak memenuhi kebutuhan operasional gudang
+
+Tidak memenuhi kebutuhan operasional gudang
+Belum menggunakan
+
+7. Bagaimana Anda menilai kualitas sistem informasi inventori gudang yang baru jika dibandingkan dengan yang sebelumnya?
+
+A. Lebih baik secara signifikan
+B. Lebih baik namun tidak signifikan
+C. Tidak ada perbedaan yang signifikan
+
+8. Apakah sistem informasi inventori gudang yang baru telah memberikan kemudahan penggunaan yang lebih baik dibandingkan dengan sebelumnya?
+
+A. Sangat mudah digunakan
+B. Mudah digunakan
+C. Tidak ada perbedaan yang signifikan dalam kemudahan penggunaan
+
+9. Bagaimana tingkat kepuasan Anda secara keseluruhan terhadap sistem informasi inventori gudang yang baru?
+
+A. Sangat puas
+B. Puas
+C. Tidak puas
+
+10. Apakah Anda merasa bahwa sistem informasi inventori gudang yang baru telah berhasil memenuhi harapan atau ekspektasi Anda?
+
+A. Ya, telah memenuhi harapan dengan baik
+B. Sebagian memenuhi harapan
+C. Tidak memenuhi harapan
+Belum menggunakan

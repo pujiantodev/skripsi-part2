@@ -1,0 +1,66 @@
+1. Bagaimana pengalaman Anda dalam menggunakan sistem informasi inventori gudang yang telah dikembangkan selama periode uji coba atau implementasi?
+a. Sangat baik
+b. Baik
+c. Cukup
+d. Kurang
+e. Tidak memiliki pengalaman
+
+2. Apa manfaat konkret yang Anda lihat setelah penerapan sistem informasi inventori gudang dalam lingkungan industri yang relevan?
+a. Penurunan biaya persediaan
+b. Peningkatan efisiensi pengelolaan stok
+c. Peningkatan ketepatan waktu pengiriman
+d. Optimalisasi ruang gudang
+e. Semua jawaban di atas
+
+3. Bagaimana tingkat adopsi sistem ini oleh pengguna di lingkungan gudang atau operasional?
+a. Tinggi, semua pengguna menerapkan sistem ini
+b. Mayoritas pengguna telah mengadopsi sistem ini
+c. Sebagian kecil pengguna yang mengadopsi sistem ini
+d. Kurang dari yang diharapkan, adopsi rendah
+e. Tidak dapat dinilai
+
+4. Apakah ada perubahan signifikan dalam efisiensi operasional setelah penerapan sistem ini? Jika ya, jelaskan.
+Ya, ada peningkatan besar dalam efisiensi operasional
+Ya, ada peningkatan tetapi tidak signifikan
+Tidak ada perubahan yang signifikan
+Efisiensi operasional menurun
+
+5. Bagaimana respon dari pemangku kepentingan (stakeholders) terhadap sistem informasi inventori gudang yang telah diimplementasikan?
+a. Sangat positif
+b. Positif
+c. Netral
+d. Negatif
+e. Sangat negatif
+
+6. Apakah ada tantangan atau masalah yang muncul selama atau setelah implementasi sistem ini? Bagaimana cara Anda mengatasinya?
+a. Ya, ada tantangan yang dihadapi dan diatasi dengan baik
+b. Ya, ada tantangan namun belum terselesaikan sepenuhnya
+c. Tidak ada tantangan yang signifikan
+d. Tidak dapat dinilai secara jelas
+e. Tidak ada masalah yang muncul
+
+7. Bagaimana sistem ini memberikan kontribusi terhadap pengelolaan persediaan secara keseluruhan? Apakah ada perbaikan dalam manajemen persediaan?
+a. Memberikan kontribusi besar dalam pengelolaan persediaan
+b. Memberikan kontribusi, namun perbaikan masih dibutuhkan
+c. Tidak memberikan kontribusi yang signifikan
+d. Memperburuk manajemen persediaan
+e. Tidak dapat dinilai
+
+8. Apakah ada feedback atau saran dari pengguna yang dapat digunakan untuk meningkatkan sistem informasi inventori gudang ini di masa mendatang?
+a. Ada feedback yang sangat berguna untuk perbaikan
+b. Ada beberapa saran yang bisa dipertimbangkan
+c. Tidak ada feedback atau saran yang signifikan
+d. Tidak dapat dinilai
+
+9. Bagaimana Anda akan mengevaluasi keberlanjutan atau keberlangsungan dari sistem ini dalam jangka panjang?
+a. Melalui pemantauan KPI yang relevan secara teratur
+b. Dengan melakukan survei periodik kepada pengguna
+c. Dengan melakukan perbandingan data sebelum dan sesudah implementasi
+d. Tidak memiliki rencana evaluasi keberlanjutan
+e. Tidak dapat dinilai
+
+10. Apakah ada rencana untuk pengembangan atau peningkatan lebih lanjut terhadap sistem informasi inventori gudang ini? Jika ya, apa saja area utama yang akan ditingkatkan?
+a. Ya, ada rencana pengembangan yang jelas
+b. Ada rencana namun belum spesifik
+c. Tidak ada rencana pengembangan
+d. Tidak dapat dinilai

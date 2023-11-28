@@ -1,0 +1,51 @@
+Pre Test
+1. Apakah Anda saat ini menggunakan sistem atau metode tertentu untuk mengelola persediaan di gudang?
+A. Tidak ada sistem atau metode yang digunakan saat ini
+B. Ya, menggunakan sistem manual (excel, catatan manual)
+C. Ya, menggunakan sistem informasi inventori gudang
+
+2. Seberapa sering Anda mengalami kendala dalam manajemen persediaan di gudang karena belum adanya sistem informasi yang terkomputerisasi?
+A. Sering
+B. Kadang-kadang
+C. Jarang
+
+3. Bagaimana sistem informasi inventori gudang dapat membantu dalam meningkatkan efisiensi operasional di lingkungan gudang Anda?
+A. Dengan mempermudah pemantauan stok barang
+B. Dengan mengoptimalkan pengelolaan persediaan
+C. Dengan memungkinkan prediksi kebutuhan stok yang lebih akurat
+
+4. Sejauh mana kebutuhan Anda dalam mengelola persediaan saat ini dapat terpenuhi tanpa adanya sistem informasi inventori gudang?
+A. Kebutuhan tidak terpenuhi sama sekali
+B. Kebutuhan sebagian kecil terpenuhi
+C. Kebutuhan sebagian besar terpenuhi
+
+5. Apa harapan utama Anda terhadap sistem informasi inventori gudang jika diterapkan di lingkungan kerja Anda?
+A. Pelacakan real-time terhadap stok barang
+B. Antarmuka yang mudah digunakan
+C. Integrasi dengan sistem lain seperti sistem penjualan atau pembelian
+
+6. Bagaimana Anda mengukur akurasi dan ketepatan dalam mengelola persediaan tanpa adanya sistem informasi inventori gudang?
+A. Kurang akurat dan tidak tepat
+B. Cukup akurat namun kurang tepat
+C. Akurat namun tidak tepat
+
+7. Apakah adanya sistem informasi inventory gudang akan mempengaruhi efisiensi kerja di gudang Anda?
+A. Akan meningkatkan efisiensi secara signifikan
+B. Akan sedikit meningkatkan efisiensi
+C. Tidak akan banyak berpengaruh
+
+8. Bagaimana Anda melihat peran teknologi dalam pengelolaan persediaan gudang dari pengalaman atau pengetahuan Anda sejauh ini?
+A. Sangat penting
+B. Biasa saja
+C. Tidak penting
+
+9. Apakah Anda merasa bahwa adanya sistem informasi inventori gudang akan membantu dalam memprediksi kebutuhan stok di masa mendatang dengan lebih akurat?
+A. Sangat yakin
+B. Yakin
+C. Tidak yakin
+
+10. Bagaimana Anda menilai urgensi atau kebutuhan akan adanya sistem informasi inventori gudang di lingkungan kerja Anda saat ini?
+A. Sangat urgent
+B. Urgent
+C. Tidak urgent
+

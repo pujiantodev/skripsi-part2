@@ -1,0 +1,40 @@
+Seberapa penting menurut Anda memiliki sistem informasi inventori gudang dalam operasional harian di gudang?
+a. Sangat penting
+b. Penting
+c. Cukup penting
+d. Tidak terlalu penting
+e. Tidak penting sama sekali
+
+Apakah saat ini Anda memiliki sistem atau metode tertentu untuk mengelola persediaan di gudang?
+a. Ya, menggunakan sistem informasi inventori gudang
+b. Ya, menggunakan sistem manual (excel, catatan manual)
+c. Tidak ada sistem atau metode yang digunakan saat ini
+d. Tidak yakin
+
+Apakah ada tantangan atau masalah yang Anda hadapi dalam pengelolaan persediaan di gudang tanpa adanya sistem informasi inventori yang terkomputerisasi?
+a. Kesulitan dalam melacak stok barang
+b. Sulitnya menghitung kebutuhan persediaan
+c. Keterlambatan dalam mengetahui stok barang yang tersedia
+d. Ketidakmampuan untuk memprediksi kebutuhan stok di masa mendatang
+e. Semua jawaban di atas
+
+Sejauh mana kepercayaan Anda terhadap keakuratan dan ketepatan dalam pengelolaan persediaan saat ini tanpa sistem informasi inventori gudang?
+a. Sangat percaya
+b. Percaya
+c. Cukup percaya
+d. Kurang percaya
+e. Tidak percaya sama sekali
+
+Apa harapan utama Anda terhadap sistem informasi inventori gudang yang ideal jika diterapkan di lingkungan kerja Anda?
+a. Pelacakan real-time terhadap stok barang
+b. Kemampuan menghasilkan laporan yang komprehensif
+c. Integrasi dengan sistem lain seperti sistem penjualan atau pembelian
+d. Antarmuka yang mudah digunakan
+e. Semua jawaban di atas
+
+Bagaimana Anda berharap sistem informasi inventori gudang akan membantu dalam peningkatan efisiensi dan produktivitas di gudang?
+a. Dengan mempermudah pemantauan stok barang
+b. Dengan mengoptimalkan pengelolaan persediaan
+c. Dengan meningkatkan akurasi dalam prediksi kebutuhan persediaan
+d. Dengan meminimalkan kesalahan dalam penghitungan stok
+e. Semua jawaban di atas    
