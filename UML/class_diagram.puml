@@ -1,0 +1,48 @@
+@startuml
+
+skin rose
+
+title Class Diagram
+
+
+class User {
+  -id : Bigint
+  -name : varchar
+  -email : varchar
+  -email_verified_at : varchar
+  -password : varchar
+  -status : varchar
+  -roles : json
+  +login void()
+}
+class Company {
+  -id : Bigint
+  -name : varchar
+  +register : void()
+}
+
+class Category {
+  -id : Bigint
+  -parent_id : Bignint
+  -name : varchar
+
+}
+
+class Products {
+  -id :Bigint
+  -name : varchar
+  -category_id : Bigint
+  -company_id : Bigint
+}
+
+class ProductTransactions{
+  -id : Bigint
+  -name : varchar
+  -company_id : Bigint
+}
+
+
+User "1" -- "many" Company
+Products "1" -- "many" Company
+
+@enduml

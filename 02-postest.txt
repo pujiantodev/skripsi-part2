@@ -34,9 +34,6 @@ A. Memenuhi semua kebutuhan
 B. Memenuhi sebagian besar kebutuhan
 C. Tidak memenuhi kebutuhan operasional gudang
 
-Tidak memenuhi kebutuhan operasional gudang
-Belum menggunakan
-
 7. Bagaimana Anda menilai kualitas sistem informasi inventori gudang yang baru jika dibandingkan dengan yang sebelumnya?
 
 A. Lebih baik secara signifikan
@@ -60,4 +57,3 @@ C. Tidak puas
 A. Ya, telah memenuhi harapan dengan baik
 B. Sebagian memenuhi harapan
 C. Tidak memenuhi harapan
-Belum menggunakan
